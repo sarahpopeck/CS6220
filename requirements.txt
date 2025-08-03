@@ -5,3 +5,8 @@ torch
 sentence-transformers
 nltk
 faiss-cpu
+tqdm
+re
+ast
+logging
+string
