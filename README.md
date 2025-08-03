@@ -2,6 +2,7 @@
 
 This is Sarah Popeck and Nicholas Nehemia's final project repository for CS6220. 
 Notes:
+- Our training and test dataset can be downloaded at https://drive.google.com/drive/folders/10gQ-EasrwWj-pfphT-gURUlzLrRkMZD0?usp=sharing
 - Our training dataset is "train_balanced_25k.csv"
 - Our test dataset is "test_4k_nonoverlap.csv"
 - You can find the original dataset that we pulled from at https://github.com/amazon-science/esci-data/tree/main/shopping_queries_dataset
